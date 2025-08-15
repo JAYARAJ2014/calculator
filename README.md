@@ -1,1 +1,6 @@
-# A simple java example with enhanced switch, exceptiion handling and tests
+# A simple java example 
+
+### Uses 
+    - enhanced switch - case 
+    - exceptiion handling 
+    - junit tests
