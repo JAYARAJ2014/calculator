@@ -1,4 +1,4 @@
-# A simple java example 
+# A simple java example Calculator program
 
 ### Uses 
     - enhanced switch - case 
